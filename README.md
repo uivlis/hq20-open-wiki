@@ -17,8 +17,8 @@ https://www.techhq.io/6720/how-to-become-a-blockchain-architect-in-10-steps
 https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc
 
 * [JavaScript Development](techhq_development/javascript_development.md)
-* [Blockchain Development](techhq_development/blockchain_development.md)
-* [Blockchain Developer Roadmap](techhq_development/blockchain_developer_roadmap.md)
-* [Development Environments](techhq_development/development_environments.md)
-* [Blockchain Tools](techhq_development/blockchain_tools.md)
-* [Blockchain in the Cloud](techhq_development/blockchain_in_the_cloud.md)
+* [Blockchain Development](techhq_development/blockchain/blockchain_development.md)
+* [Blockchain Developer Roadmap](techhq_development/blockchain/blockchain_developer_roadmap.md)
+* [Development Environments](techhq_development/blockchain/development_environments.md)
+* [Blockchain Tools](techhq_development/blockchain/blockchain_tools.md)
+* [Blockchain in the Cloud](techhq_development/blockchain/blockchain_in_the_cloud.md)
